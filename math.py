@@ -1,20 +1,16 @@
+# Add implementation
 def add(x,y):
     pass
-<<<<<<< HEAD
-  
-#subtraction header  
-=======
-   
-# subtraction commit   
->>>>>>> parent of f59f3f8 (Initail Commit of Math.py with two other files)
+
+# Subtract implementation
 def subtract(x,y):
     pass
-    
+
+# Multiply implementation    
 def multiply(x,y):
     pass
-    
+
+# Divide implementation    
 def divide(x,y):
     pass
     
-def mode(x,y):
-    pass
